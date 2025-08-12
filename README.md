@@ -108,5 +108,5 @@ To provide a centralized, interactive analytics tool that:
 
 ---
 
-![Prime Video Dashboard](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/prime_video_dashboard.png)
+![Prime Video Dashboard]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/prime_video_dashboard.png](https://github.com/vishnupratap027/prime_video_daseboard/blob/main/prime_video_daseboard.ss.png))
 
